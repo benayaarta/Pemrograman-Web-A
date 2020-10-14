@@ -1,0 +1,160 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#707070;
+    
+}
+.stbg{
+    background-color: #FAF4EB;
+    height: 700px;
+    width: 100%;
+    
+}
+
+
+.menu p{
+    float:left;
+    text-transform: uppercase;
+    margin-left: 7%;
+    margin-top: 2%;
+    font-size: 18px;
+    color: white;
+    
+}
+.menu a{
+    float:right;
+    text-transform:uppercase;
+    margin-right: 7%;
+    margin-top: 2%;
+    font-size:18px;
+    color: white;
+    
+}
+.menu{
+    background-color: #AE905E;
+    padding: 0px;
+    height: 80px;
+    width: 100%;
+    padding-left: 0px;
+    position: fixed;
+
+}
+.name p {
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 7%;
+    font-size: 48px;
+    font-weight: bold;
+}
+.name {
+    
+    
+    
+}
+
+.motto{
+    text-transform: uppercase;
+    float:left;
+    margin-left: 13%;
+    margin-top: -2%;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+  .vl1 {
+        
+        border-left: 6px solid #AE905E;
+        height: 585px;
+        position: absolute;
+        left: 21%;
+        margin-left: 9%;
+        margin-top: -25%; 
+       transform: rotate(90deg);
+  }
+  .vl2 {
+    margin-top: 0%;
+    border-left: 6px solid #AE905E;
+    height: 300px;
+    position: absolute;
+    left: 10%;
+    margin-left: 4px;
+     
+  
+  }
+  .vl3 {
+    margin-top: 1%;
+    border-left: 2px solid #ffff;
+    height: 50px;
+    position: absolute;
+    margin-left: 9%;
+     
+  
+  }
+  
+  .about h1 {
+      margin-right: 17%;
+      float: right;
+      text-transform: uppercase;
+      font-size:36px;
+      margin-top:1%;
+  }
+  .about p{
+      margin-top:2%;
+      float :right;
+      font-size: 18px;
+      margin-right:8% ;
+
+  }
+  .programmer h1 {
+
+    text-transform: uppercase;
+    font-size:36px;
+    margin-left: 12%;
+    margin-top: 12%;
+      
+  }
+  .programmer p{
+    font-size: 18px;
+    margin-left: 12%;
+    margin-top: 8%;
+
+  }
+  .social h1{
+      font-size: 24px;
+      text-transform: uppercase;
+      margin left:8%;
+      margin-top: 2%;
+      float:left;
+      color: white;
+      font-weight:normal;
+  }
+  .social a{
+      font-size: 18px;
+      text-transform: uppercase;
+      color: black;
+      margin-top: 3%;
+      margin-left: 8%;
+      float:right;
+      margin-right: 8%;
+      color: white;
+  }
+  
+  .social{  
+      background-color: #291E0A;
+      margin-left: 25%;
+      margin-right: 25%;
+      margin-top:10%;
+      opacity: 60%;
+      width: 800px;
+      height: 70px;
+        
+  }
+  .gadget{
+      height: 350px;
+      width: auto;
+      float:right;
+      margin-top: -20%;
+      margin-right:20%
+    
+  }
+
+  
